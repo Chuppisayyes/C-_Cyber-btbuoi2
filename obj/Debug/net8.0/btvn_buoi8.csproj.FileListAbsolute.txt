@@ -1,0 +1,14 @@
+D:\Cyber-C#\btvn_buoi8\bin\Debug\net8.0\btvn_buoi8.exe
+D:\Cyber-C#\btvn_buoi8\bin\Debug\net8.0\btvn_buoi8.deps.json
+D:\Cyber-C#\btvn_buoi8\bin\Debug\net8.0\btvn_buoi8.runtimeconfig.json
+D:\Cyber-C#\btvn_buoi8\bin\Debug\net8.0\btvn_buoi8.dll
+D:\Cyber-C#\btvn_buoi8\bin\Debug\net8.0\btvn_buoi8.pdb
+D:\Cyber-C#\btvn_buoi8\obj\Debug\net8.0\btvn_buoi8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cyber-C#\btvn_buoi8\obj\Debug\net8.0\btvn_buoi8.AssemblyInfoInputs.cache
+D:\Cyber-C#\btvn_buoi8\obj\Debug\net8.0\btvn_buoi8.AssemblyInfo.cs
+D:\Cyber-C#\btvn_buoi8\obj\Debug\net8.0\btvn_buoi8.csproj.CoreCompileInputs.cache
+D:\Cyber-C#\btvn_buoi8\obj\Debug\net8.0\btvn_buoi8.dll
+D:\Cyber-C#\btvn_buoi8\obj\Debug\net8.0\refint\btvn_buoi8.dll
+D:\Cyber-C#\btvn_buoi8\obj\Debug\net8.0\btvn_buoi8.pdb
+D:\Cyber-C#\btvn_buoi8\obj\Debug\net8.0\btvn_buoi8.genruntimeconfig.cache
+D:\Cyber-C#\btvn_buoi8\obj\Debug\net8.0\ref\btvn_buoi8.dll
